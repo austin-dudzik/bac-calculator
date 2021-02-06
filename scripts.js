@@ -24,7 +24,7 @@ $(document).ready(function() {
     let numShots = $("input#shots").val();
     numShots = parseFloat(numShots);
 
-    // Get weight from inputs
+    // Get weight from input
     let weight = $("input#weight").val();
     weight = parseFloat(weight);
 
