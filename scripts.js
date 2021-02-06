@@ -7,7 +7,7 @@ $(document).ready(function() {
     event.preventDefault();
 
     // Constant variables
-    let oneBeer = 0.54; // 0.54 liguid ounces
+    let oneBeer = 0.54; // 0.54 liquid ounces
     let oneWine = 0.6; // 0.6 liquid ounces
     let oneShot = 0.6; // 0.6 liquid ounces
 
